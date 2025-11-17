@@ -1,0 +1,12 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    { "item": "create:asurine" }
+  ],
+  "results": [
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 0.3
+    }
+  ]
+}

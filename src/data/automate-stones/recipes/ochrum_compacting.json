@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:stone", "count": 2 },
+    { "item": "minecraft:gravel", "count": 1 },
+    { "item": "minecraft:flint", "count": 1 },
+    { "fluid": "minecraft:lava", "amount": 20 }
+  ],
+  "results": [
+    { "item": "create:ochrum" }
+  ],
+  "heatRequirement": "none"
+}

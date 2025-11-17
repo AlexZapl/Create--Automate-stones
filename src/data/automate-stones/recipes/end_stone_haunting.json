@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    { "item": "create:ochrum" }
+  ],
+  "results": [
+    {
+      "item": "minecraft:end_stone",
+      "count": 3,
+      "chance": 0.75
+    }
+  ]
+}

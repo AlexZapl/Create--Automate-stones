@@ -1,0 +1,11 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:calcite", "count": 2 },
+    { "fluid": "minecraft:lava", "amount": 50 }
+  ],
+  "results": [
+    { "item": "create:limestone" }
+  ],
+  "heatRequirement": "heated"
+}

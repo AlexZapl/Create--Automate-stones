@@ -1,0 +1,8 @@
+
+modLoader = 'javafml'
+loaderVersion = '[25,)'
+license = 'MIT'
+showAsResourcePack = false
+mods = [
+	{ modId = 'automate-stones', version = '0.0.2', displayName = 'Create: Automate Stones', description = 'Datapack/Mod for create with new stone recipes :D', authors = 'AlexZapl', displayURL = 'https://modrinth.com/project/automate-stones' },
+]
