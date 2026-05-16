@@ -1,0 +1,19 @@
+{
+    "schemaVersion":1,
+    "id":"automatestones",
+    "icon": "assets/automatestones/icon.png",
+    "version":"0.0.3",
+    "name":"Create: Automate Stones",
+    "description":"Addon for Create with new stone recipes",
+    "authors":["AlexZapl"],
+    "contact":
+    {
+        "homepage":"https://modrinth.com/project/automate-stones"},
+        "license":"MIT",
+        "environment":"*",
+        "depends":
+        {
+            "fabric-resource-loader-v0":"*",
+            "create": ">=0.5.1"
+        }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:coal",
+      "count": 1,
+      "chance": 0.1
+    },
+    {
+      "id": "minecraft:gunpowder",
+      "count": 1,
+      "chance": 0.06
+    }
+  ]
+}

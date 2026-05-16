@@ -1,0 +1,12 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:stone" },
+    { "item": "minecraft:gold_nugget" },
+    { "fluid": "minecraft:lava", "amount": 16200 }
+  ],
+  "results": [
+    { "item": "create:ochrum" }
+  ],
+  "heatRequirement": "none"
+}

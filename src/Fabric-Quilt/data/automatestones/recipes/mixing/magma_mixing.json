@@ -1,0 +1,11 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "item": "minecraft:cobblestone" },
+        { "fluid": "minecraft:lava", "amount": 20250 }
+    ],
+    "results": [
+        { "item": "minecraft:magma_block" }
+    ],
+    "heatRequirement": "heated"
+}

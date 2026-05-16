@@ -1,1 +1,0 @@
-{"schemaVersion":1,"id":"automate-stones","version":"0.0.2","name":"Create: Automate Stones","description":"Datapack/Mod for create with new stone recipes :D","authors":["AlexZapl"],"contact":{"homepage":"https://modrinth.com/project/automate-stones"},"license":"MIT","environment":"*","depends":{"fabric-resource-loader-v0":"*"}}

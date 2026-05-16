@@ -1,0 +1,36 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "tag": "c:gravels"
+    },
+    {
+      "tag": "c:gravels"
+    },
+    {
+      "tag": "c:gravels"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:dripstone_block"
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "count": 1,
+      "chance": 0.85
+    }
+  ]
+}

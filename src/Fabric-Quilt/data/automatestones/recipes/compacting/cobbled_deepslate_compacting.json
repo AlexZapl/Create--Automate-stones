@@ -1,0 +1,11 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:deepslate" },
+    { "fluid": "minecraft:lava", "amount": 8100 }
+  ],
+  "results": [
+    { "item": "minecraft:cobbled_deepslate" }
+  ],
+  "heatRequirement": "superheated"
+}

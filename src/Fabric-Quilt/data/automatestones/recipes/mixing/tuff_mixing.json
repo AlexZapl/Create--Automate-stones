@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:pointed_dripstone" },
+    { "item": "minecraft:pointed_dripstone" },
+    { "item": "minecraft:pointed_dripstone" },
+    { "item": "minecraft:gravel" },
+    { "item": "minecraft:gravel" },
+    { "item": "minecraft:gravel" },
+    { "fluid": "minecraft:lava", "amount": 20250 }
+  ],
+  "results": [
+    { "item": "minecraft:tuff" },
+    { "item": "minecraft:tuff", "chance": 0.85 }
+  ],
+  "heatRequirement": "heated"
+}

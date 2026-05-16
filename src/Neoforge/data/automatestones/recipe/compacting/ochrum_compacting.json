@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "c:stones"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 200,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:ochrum"
+    }
+  ]
+}

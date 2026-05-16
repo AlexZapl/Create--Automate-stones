@@ -1,0 +1,25 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "tag": "c:stones"
+        },
+        {
+            "tag": "c:cobblestones"
+        },
+        {
+            "item": "minecraft:flint"
+        },
+        {
+            "type": "fluid_stack",
+            "amount": 200,
+            "fluid": "minecraft:water"
+        }
+    ],
+    "results": [
+        {
+            "id": "create:asurine"
+        }
+    ]
+}
+

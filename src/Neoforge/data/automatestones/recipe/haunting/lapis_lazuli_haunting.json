@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "create:asurine"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:lapis_lazuli",
+      "count": 3
+    }
+  ]
+}

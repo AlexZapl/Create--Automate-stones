@@ -1,0 +1,12 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "create:copper_nugget" },
+    { "item": "minecraft:stone" },
+    { "fluid": "minecraft:water", "amount": 20250 }
+  ],
+  "results": [
+    { "item": "create:veridium" }
+  ],
+  "heatRequirement": "heated"
+}

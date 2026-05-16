@@ -1,0 +1,11 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:bone_block" },
+    { "fluidTag": "c:milk", "amount": 20250 }
+  ],
+  "results": [
+    { "item": "minecraft:calcite" }
+  ],
+  "heatRequirement": "heated"
+}

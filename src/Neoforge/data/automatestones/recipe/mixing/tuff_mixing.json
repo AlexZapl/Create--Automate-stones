@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:pointed_dripstone"
+    },
+    {
+      "item": "minecraft:pointed_dripstone"
+    },
+    {
+      "item": "minecraft:pointed_dripstone"
+    },
+    {
+      "tag": "c:gravels"
+    },
+    {
+      "tag": "c:gravels"
+    },
+    {
+      "tag": "c:gravels"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 250,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:tuff"
+    },
+    {
+      "id": "minecraft:tuff",
+      "chance": 0.85
+    }
+  ]
+}

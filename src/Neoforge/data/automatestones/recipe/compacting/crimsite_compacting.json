@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "c:cobblestones"
+    },
+    {
+      "item": "create:cinder_flour"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 200,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:crimsite"
+    }
+  ]
+}

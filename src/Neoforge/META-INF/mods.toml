@@ -1,0 +1,30 @@
+modLoader = 'javafml'
+loaderVersion = '[40,)'
+license = 'MIT'
+showAsResourcePack = false
+
+[[mods]]
+	modId = 'automatestones'
+	version = '0.0.3'
+	displayName = 'Create: Automate Stones'
+	description = 'Addon for Create with more stone recipes'
+	authors = 'AlexZapl'
+	displayURL = 'https://modrinth.com/project/automate-stones'
+	logoFile="icon.png"
+	updateJSONURL = "https://api.modrinth.com/updates/dMfGYPJH/forge_updates.json"
+
+[[dependencies."automatestones"]]
+	modId="create"
+	type="required"
+	versionRange="[0.5.1,)"
+	ordering="AFTER"
+	side="BOTH"
+	mandatory=true
+
+[[dependencies."automatestones"]]
+	modId = "minecraft"
+	type = "required"
+	versionRange = "[1.20.1,)"
+	ordering = "NONE"
+	side = "BOTH"
+	mandatory=true

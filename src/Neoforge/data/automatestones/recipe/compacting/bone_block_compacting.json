@@ -1,0 +1,38 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "tag": "c:stones"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 500,
+      "fluid": "minecraft:water"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 500,
+      "fluid_tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:bone_block"
+    },
+    {
+      "id": "minecraft:bone",
+      "count": 1,
+      "chance": 0.3
+    }
+  ]
+}

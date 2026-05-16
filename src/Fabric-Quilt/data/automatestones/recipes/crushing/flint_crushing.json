@@ -1,0 +1,9 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        { "item": "minecraft:flint" }
+    ],
+    "results": [
+        { "item": "minecraft:coal", "count": 1, "chance": 0.5 }
+    ]
+}

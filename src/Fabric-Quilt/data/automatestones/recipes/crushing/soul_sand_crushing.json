@@ -1,0 +1,10 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    { "item": "minecraft:soul_sand" }
+  ],
+  "results": [
+    { "item": "minecraft:quartz", "count": 2, "chance": 0.25 },
+    { "item": "minecraft:gold_nugget", "count": 3, "chance": 0.2 }
+  ]
+}
